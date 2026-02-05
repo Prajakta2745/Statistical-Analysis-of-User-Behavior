@@ -36,4 +36,4 @@ Results support deploying the new variant to improve product conversions.
 
 ## 🚀 Author
 
-Your Name
+Prajakta Patil.
