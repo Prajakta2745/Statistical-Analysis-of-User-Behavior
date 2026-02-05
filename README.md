@@ -30,14 +30,6 @@ Simulated / Kaggle A/B testing dataset containing user interactions and conversi
 
 Variant B showed a higher conversion rate with statistically significant improvement over Variant A.
 
-# A/B Testing Data Analytics Project
-
-## Conversion Rate Visualization
-
-Below is the result of A/B Testing analysis:
-
-![Conversion Chart](conversion_chart.png)
-
 ## 💡 Business Impact
 
 Results support deploying the new variant to improve product conversions.
