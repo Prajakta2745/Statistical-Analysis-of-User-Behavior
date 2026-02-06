@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
 
-df = pd.read_csv("ab_data.csv")
+df =pd.read_csv("sample_ab_test.csv")
 df.head()
 
 df.info()
@@ -185,4 +185,5 @@ if p_value < alpha:
   print("result: Significant differemce - New variant performs better")
 else:
   print("Result: No significant difference - Keep original variant")
+
 
